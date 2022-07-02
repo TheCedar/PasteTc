@@ -1,0 +1,2 @@
+# PasteTc
+A pastebin.
